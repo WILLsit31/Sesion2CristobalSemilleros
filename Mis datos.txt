@@ -3,4 +3,5 @@ Mi apellido: Herrera
 Mi Edad: 19
 Mi Comida Favorita: arroz
 Mi juego favorito: 
-MI mascota 
+MI mascota: 
+MI perro se llama:
